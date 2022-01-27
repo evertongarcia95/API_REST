@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "api_teste",
+            "type": "python",
+            "request": "launch",
+            "program": "/home/everton/Documentos/api teste/app.py",
+            "console": "integratedTerminal",
+        }
+    ]
+}
